@@ -8,13 +8,11 @@ export function App() {
         formatUserName={formatUserName}
         userName="wildevp"
         name="Wilmar Garcia"
-        isFollowing
       />
       <TwitterFollowCard
         formatUserName={formatUserName}
         userName="carmenansio"
         name="Cosmic Red 🔥"
-        isFollowing={false}
       />
     </section>
   );
